@@ -1,3 +1,11 @@
+<style>
+table {
+  border-collapse: collapse;
+  border-color: transparent;
+  border-width: 0;
+}
+</style>
+
 ## Seja bem-vindo ao meu perfil 👋 
 
 📖 Atualmente cursando Ciências da computação USP São Carlos
@@ -8,7 +16,7 @@
 <br>
 💻 Voltando a programar...
 
-<table style="border:none;">
+<table>
 <th>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="25" />
 </th>
