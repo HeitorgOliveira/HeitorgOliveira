@@ -8,7 +8,7 @@
 <br>
 💻 Voltando a programar...
 
-<table border-width="0">
+<table style="border: 0;">
 <th>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="25" />
 </th>
