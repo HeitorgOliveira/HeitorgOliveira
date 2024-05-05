@@ -1,6 +1,6 @@
 ## Seja bem-vindo ao meu perfil 👋 
 
-📖 Atualmente cursando Ciências da computação USP São Carlos
+📖 Atualmente cursando Ciências da computação - ICMC USP
 <br>
 🌱 Tenho interesse em estudar Inteligência Artificial
 <br>
