@@ -20,9 +20,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="25" /> -->
 
 ##
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorgOliveira&layout=compact&theme=radical)
 ![Stats](https://github-readme-stats.vercel.app/api?username=HeitorgOliveira&show_icons=true&theme=radical)
-
-
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorgOliveira&layout=compact&theme=radical)
 
 ##
