@@ -1,12 +1,11 @@
-## Seja bem-vindo ao meu perfil 👋 
+## Welcome to my profile 👋 
 
-📖 Atualmente cursando Ciências da computação - ICMC USP
+📖 CS Undergraduate - ICMC USP
 <br>
-🌱 Tenho interesse em estudar Inteligência Artificial
+🌱 Interested in AI
 <br>
-🐍 Estudando Python...
+🐍 Currently learning python...
 <br>
-💻 Voltando a programar...
 
 <div style="display: inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="25" />
@@ -23,7 +22,7 @@
 
 
 ##
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorgOliveira&layout=compact&theme=radical)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorgOliveira&layout=compact&theme=radical)
 ![Stats](https://github-readme-stats.vercel.app/api?username=HeitorgOliveira&show_icons=true&theme=radical)
 
 
